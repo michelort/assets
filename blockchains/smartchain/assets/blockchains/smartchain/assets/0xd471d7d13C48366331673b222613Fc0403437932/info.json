@@ -1,0 +1,11 @@
+{
+  "name": "TortillaDePatataSwap",
+  "symbol": "TDP",
+  "decimals": 18,
+  "description": "Token inspirado en la tortilla de patatas española.",
+  "website": "https://tuweb.com",
+  "twitter": "https://twitter.com/tu_twitter",
+  "explorer": "https://bscscan.com/token/0xd471d7d13C48366331673b222613Fc0403437932",
+  "status": "active",
+  "id": "0xd471d7d13C48366331673b222613Fc0403437932"
+}
